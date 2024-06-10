@@ -19,7 +19,7 @@ public class Interfaz {
     private static void placeComponents(JPanel panel) {
         panel.setLayout(null);
 
-        JLabel userLabel = new JLabel("Tipo de Habitación");
+        JLabel userLabel = new JLabel("Tipo de Habitacion");
         userLabel.setBounds(10, 20, 160, 25);
         panel.add(userLabel);
 
